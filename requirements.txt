@@ -1,0 +1,14 @@
+streamlit
+openai
+python-dotenv
+pandas
+openpyxl
+python-docx
+pymupdf
+opencv-python-headless
+pillow
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+faiss-cpu
